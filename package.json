@@ -1,0 +1,32 @@
+{
+  "name": "nodeauthapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx watch src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoValdeliAlves/nodeAuthApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ThiagoValdeliAlves/nodeAuthApi/issues"
+  },
+  "homepage": "https://github.com/ThiagoValdeliAlves/nodeAuthApi#readme",
+  "devDependencies": {
+    "@types/node": "26.4.0",
+    "eslint": "9.39.5",
+    "eslint-plugin-import": "2.32.0",
+    "eslint-plugin-prettier": "5.5.6",
+    "prettier": "3.9.6",
+    "tsx": "4.23.12",
+    "typescript": "5.9",
+    "typescript-eslint": "8.67.0"
+  }
+}
