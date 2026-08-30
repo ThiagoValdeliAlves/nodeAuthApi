@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ThiagoValdeliAlves/nodeAuthApi#readme",
   "devDependencies": {
+    "@types/express": "^5.0.6",
     "@types/node": "26.4.0",
     "@types/pg": "8.23.1",
     "eslint": "9.39.5",
@@ -32,6 +33,7 @@
   },
   "dependencies": {
     "dotenv": "17.4.2",
+    "express": "^5.2.1",
     "pg": "8.23.0"
   }
 }
